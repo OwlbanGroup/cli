@@ -63,6 +63,7 @@ For more information about the Webi installer see [its homepage](https://webinst
 ### Linux & BSD
 
 `gh` is available via:
+
 - [our Debian and RPM repositories](./docs/install_linux.md);
 - community-maintained repositories in various Linux distros;
 - OS-agnostic package managers such as [Homebrew](#homebrew), [Conda](#conda), [Spack](#spack), [Webi](#webi); and
