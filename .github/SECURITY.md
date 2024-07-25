@@ -1,4 +1,4 @@
-GitHub takes the security of our software products and services seriously, including the open source code repositories managed through our GitHub organizations, such as [cli](https://github.com/cli).
+# OpenSourceSecurity
 
 If you believe you have found a security vulnerability in GitHub CLI, you can report it to us in one of two ways:
 
@@ -12,3 +12,4 @@ Thanks for helping make GitHub safe for everyone.
 
   [private vulnerability reporting]: https://github.com/cli/cli/security/advisories
   [HackerOne]: https://hackerone.com/github
+[def]: https://github.com/cli
