@@ -1,4 +1,4 @@
-## Contributing
+# Contributing
 
 Hi! Thanks for your interest in contributing to the GitHub CLI!
 
@@ -24,13 +24,16 @@ Please avoid:
 ## Building the project
 
 Prerequisites:
-- Go 1.22+
+
+* Go 1.22+
 
 Build with:
+
 * Unix-like systems: `make`
 * Windows: `go run script/build.go`
 
 Run the new binary as:
+
 * Unix-like systems: `bin/gh`
 * Windows: `bin\gh`
 
@@ -56,10 +59,9 @@ You may reference the [CLI Design System][] when suggesting features, and are we
 
 ## Resources
 
-- [How to Contribute to Open Source][]
-- [Using Pull Requests][]
-- [GitHub Help][]
-
+* [How to Contribute to Open Source][]
+* [Using Pull Requests][]
+* [GitHub Help][]
 
 [bug issues]: https://github.com/cli/cli/issues?q=is%3Aopen+is%3Aissue+label%3Abug
 [feature request issues]: https://github.com/cli/cli/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement
